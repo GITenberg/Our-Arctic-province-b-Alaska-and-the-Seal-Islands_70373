@@ -1,5 +1,8 @@
 _repo: Our-Arctic-province-b-Alaska-and-the-Seal-Islands_70373
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70373-h/images/cover.jpg
 creator:
   author:
     agent_name: Elliott, Henry Wood
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55734
     wikipedia: https://en.wikipedia.org/wiki/Henry_Wood_Elliott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70373#Our-Arctic-province-b-Alaska-and-the-Seal-Islands
 gutenberg_issued: '2023-03-29'
 identifiers:
   gutenberg: '70373'
